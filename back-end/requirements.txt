@@ -1,0 +1,5 @@
+fastapi==0.75.2
+uvicorn==0.15.0
+pyTigerGraph==1.1.0
+motor==2.5.1
+python-multipart==0.0.5

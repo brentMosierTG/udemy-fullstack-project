@@ -1,0 +1,9 @@
+.vscode
+
+back-end/__pycache__
+back-end/venv
+
+front-end/.DS_Store
+front-end/.quasar
+front-end/.vscode
+front-end/node_modules
